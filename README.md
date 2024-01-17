@@ -2,7 +2,7 @@
 **If you have a lot of information to display on your site, why don't you use my project**
 
 ![Screenshot_2024_01_14-1](https://github.com/elnaz-eshtiaghi/age-counter/assets/146030206/79068ddd-ca55-4464-99dd-36d956175e57)
-- [Demo Project]( https://elnaz-eshtiaghi.github.io/age-counter/)
+- [Demo Project](  https://elnaz-eshtiaghi.github.io/accordion/)
 
 - Developed by elnaz eshtiaghi
 
